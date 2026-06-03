@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Yash 👋
 
-<!--
-**YashVardhan-21/YashVardhan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @ Fracto
 
-Here are some ideas to get you started:
+Building AI systems, internal tools, and business software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus:
+- AI Agents
+- Workflow Automation
+- Healthcare Applications
+- Decision Intelligence Systems
+
+Featured Projects:
+- Sweet It Out
+- Fracto Insurance
+- Fracto Growth Engine
